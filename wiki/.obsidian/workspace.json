@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "62c4b8c7a52e07a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aa906d5056c7c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a899d6a78a6273e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e16c97e54e0117f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "260b8bfef7137466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3052c9b01599c877",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "29a4c23d7117e502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6e4756dce42c5dfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e0d7361f412a2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3618aeb547352caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cb14f85e212cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "overview 的反向链接列表"
+            }
+          },
+          {
+            "id": "1e4e1a5ed5f7c1c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "overview 的出链列表"
+            }
+          },
+          {
+            "id": "9cdce372bbc6c154",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fa262d4f63927a6e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5768000333d1a697",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "overview.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "overview 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 600.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6a899d6a78a6273e",
+  "lastOpenFiles": [
+    "topics/superpowers-skillchain-practice-guide.md",
+    "entities/superpowers.md",
+    "concepts/superpowers-skills.md",
+    "sources/Superpowers技能链实操跟练手册.md",
+    "sources/Superpowers技能培训课堂讲义.md",
+    "entities/github-copilot.md",
+    "overview.md",
+    "topics/how-to-ingest.md",
+    "topics/how-to-create-wiki.md",
+    "index.md",
+    "concepts/copilot-skills.md",
+    "log.md",
+    "sources/spec-kit-cli培训文档.md",
+    "entities/spec-kit-cli.md"
+  ]
+}
